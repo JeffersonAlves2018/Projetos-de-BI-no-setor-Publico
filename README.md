@@ -27,3 +27,5 @@ Devido a particularidades do setor público bem como aspectos de ordem organizac
 Tal projeto não recebeu o apoio devido para ser iniciado de maneira formal, resultando em algumas ações pontuais de forma a compensar restrições e deficiências no campo das informações gerenciais sobre os processos.
 
 Ao longo da apresentação, é detalhada esta proposta e nos demais arquivos são demonstradas algumas ferramentas de apoio que foram desenvolvidas (dashboards, relatórios etc.).
+
+Algumas imagens dos dashboards foram editadas para preservar o sigilo das informações e o restante permaneceu aberto a consulta por ter utilizado informações públicas disponibilizadas no próprio site da Prefeitura a qualquer cidadão.
